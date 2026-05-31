@@ -488,3 +488,4 @@ Refinement 217: Adding descriptive comments for better maintainability
 Refinement 219: Improving code documentation
 Refinement 225: Adding internal developer notes
 Refinement 228: Improving consistency across the module
+Refinement 232: Cleaning up whitespace and indentations
