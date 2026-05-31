@@ -443,3 +443,4 @@ Refinement 50: Improving code documentation
 Refinement 66: Updating documentation for future reference
 Refinement 71: Adding internal developer notes
 Refinement 72: Minor refactoring of function calls
+Refinement 74: Standardizing code style and formatting
