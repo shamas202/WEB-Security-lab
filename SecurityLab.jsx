@@ -575,3 +575,4 @@ Refinement 17: Cleaning up whitespace and indentations
 Refinement 18: Standardizing code style and formatting
 Refinement 20: Cleaning up whitespace and indentations
 Refinement 22: Improving code documentation
+Refinement 23: Adding descriptive comments for better maintainability
