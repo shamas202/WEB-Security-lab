@@ -547,3 +547,4 @@ Refinement 401: Improving consistency across the module
 Refinement 403: Adding descriptive comments for better maintainability
 Refinement 416: Improving code documentation
 Refinement 418: Cleaning up whitespace and indentations
+Refinement 421: Minor refactoring of function calls
