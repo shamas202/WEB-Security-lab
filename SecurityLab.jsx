@@ -539,3 +539,4 @@ Refinement 382: Adding internal developer notes
 Refinement 387: Standardizing code style and formatting
 Refinement 388: Cleaning up whitespace and indentations
 Refinement 390: Improving code documentation
+Refinement 391: Improving consistency across the module
