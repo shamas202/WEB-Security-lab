@@ -526,3 +526,4 @@ Refinement 333: Improving code documentation
 Refinement 344: Improving code documentation
 Refinement 345: Improving code documentation
 Refinement 349: Improving consistency across the module
+Refinement 351: Updating documentation for future reference
