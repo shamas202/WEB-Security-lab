@@ -11,3 +11,4 @@
 # Refinement 33: Improving code documentation
 # Refinement 36: Cleaning up whitespace and indentations
 # Refinement 37: Adding descriptive comments for better maintainability
+# Refinement 40: Improving consistency across the module
