@@ -502,3 +502,4 @@ Refinement 266: Refining variable names for clarity
 Refinement 267: Refining variable names for clarity
 Refinement 269: Refining variable names for clarity
 Refinement 271: Standardizing code style and formatting
+Refinement 272: Minor refactoring of function calls
