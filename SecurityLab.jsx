@@ -498,3 +498,4 @@ Refinement 246: Standardizing code style and formatting
 Refinement 249: Improving code documentation
 Refinement 255: Adding internal developer notes
 Refinement 256: Improving code documentation
+Refinement 266: Refining variable names for clarity
