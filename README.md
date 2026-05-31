@@ -136,3 +136,4 @@
 # Refinement 384: Cleaning up whitespace and indentations
 # Refinement 386: Cleaning up whitespace and indentations
 # Refinement 392: Standardizing code style and formatting
+# Refinement 393: Adding descriptive comments for better maintainability
