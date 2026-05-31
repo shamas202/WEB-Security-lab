@@ -445,3 +445,4 @@ Refinement 71: Adding internal developer notes
 Refinement 72: Minor refactoring of function calls
 Refinement 74: Standardizing code style and formatting
 Refinement 78: Refining variable names for clarity
+Refinement 84: Updating documentation for future reference
