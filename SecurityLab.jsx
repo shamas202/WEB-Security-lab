@@ -564,3 +564,4 @@ Refinement 454: Minor refactoring of function calls
 Refinement 457: Adding internal developer notes
 Refinement 458: Minor refactoring of function calls
 Refinement 459: Adding descriptive comments for better maintainability
+Refinement 477: Adding internal developer notes
