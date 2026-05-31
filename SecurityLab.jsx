@@ -585,3 +585,4 @@ Refinement 39: Updating documentation for future reference
 Refinement 41: Improving code documentation
 Refinement 42: Refining variable names for clarity
 Refinement 44: Cleaning up whitespace and indentations
+Refinement 49: Improving code documentation
