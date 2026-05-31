@@ -562,3 +562,4 @@ Refinement 446: Improving code documentation
 Refinement 450: Refining variable names for clarity
 Refinement 454: Minor refactoring of function calls
 Refinement 457: Adding internal developer notes
+Refinement 458: Minor refactoring of function calls
