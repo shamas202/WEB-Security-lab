@@ -468,3 +468,4 @@ Refinement 158: Standardizing code style and formatting
 Refinement 165: Optimizing logic in small sections
 Refinement 166: Improving consistency across the module
 Refinement 167: Improving code documentation
+Refinement 168: Cleaning up whitespace and indentations
