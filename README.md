@@ -9,3 +9,4 @@
 # Refinement 28: Standardizing code style and formatting
 # Refinement 29: Improving consistency across the module
 # Refinement 33: Improving code documentation
+# Refinement 36: Cleaning up whitespace and indentations
