@@ -167,3 +167,4 @@
 # Refinement 481: Cleaning up whitespace and indentations
 # Refinement 482: Updating documentation for future reference
 # Refinement 1: Updating documentation for future reference
+# Refinement 2: Adding internal developer notes
