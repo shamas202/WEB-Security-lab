@@ -108,3 +108,4 @@
 # Refinement 300: Standardizing code style and formatting
 # Refinement 304: Cleaning up whitespace and indentations
 # Refinement 305: Refining variable names for clarity
+# Refinement 309: Cleaning up whitespace and indentations
