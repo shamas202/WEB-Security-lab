@@ -537,3 +537,4 @@ Refinement 375: Standardizing code style and formatting
 Refinement 381: Adding descriptive comments for better maintainability
 Refinement 382: Adding internal developer notes
 Refinement 387: Standardizing code style and formatting
+Refinement 388: Cleaning up whitespace and indentations
