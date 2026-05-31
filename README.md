@@ -5,3 +5,4 @@
 # Refinement 18: Updating documentation for future reference
 # Refinement 21: Cleaning up whitespace and indentations
 # Refinement 24: Minor refactoring of function calls
+# Refinement 25: Standardizing code style and formatting
