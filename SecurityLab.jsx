@@ -588,3 +588,4 @@ Refinement 44: Cleaning up whitespace and indentations
 Refinement 49: Improving code documentation
 Refinement 50: Updating documentation for future reference
 Refinement 51: Standardizing code style and formatting
+Refinement 52: Refining variable names for clarity
