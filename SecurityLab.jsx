@@ -572,3 +572,4 @@ Refinement 7: Improving consistency across the module
 Refinement 9: Minor refactoring of function calls
 Refinement 10: Improving code documentation
 Refinement 17: Cleaning up whitespace and indentations
+Refinement 18: Standardizing code style and formatting
