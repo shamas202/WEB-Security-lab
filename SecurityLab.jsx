@@ -435,3 +435,4 @@ Refinement 16: Adding internal developer notes
 Refinement 19: Improving consistency across the module
 Refinement 26: Updating documentation for future reference
 Refinement 27: Updating documentation for future reference
+Refinement 32: Minor refactoring of function calls
