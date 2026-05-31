@@ -78,3 +78,4 @@
 # Refinement 204: Updating documentation for future reference
 # Refinement 206: Optimizing logic in small sections
 # Refinement 211: Cleaning up whitespace and indentations
+# Refinement 220: Optimizing logic in small sections
