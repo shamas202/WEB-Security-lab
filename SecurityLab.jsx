@@ -439,3 +439,4 @@ Refinement 32: Minor refactoring of function calls
 Refinement 38: Updating documentation for future reference
 Refinement 39: Improving consistency across the module
 Refinement 43: Updating documentation for future reference
+Refinement 50: Improving code documentation
