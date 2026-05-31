@@ -484,3 +484,4 @@ Refinement 207: Cleaning up whitespace and indentations
 Refinement 208: Improving consistency across the module
 Refinement 210: Cleaning up whitespace and indentations
 Refinement 215: Refining variable names for clarity
+Refinement 217: Adding descriptive comments for better maintainability
