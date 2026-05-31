@@ -479,3 +479,4 @@ Refinement 191: Improving code documentation
 Refinement 197: Adding internal developer notes
 Refinement 198: Refining variable names for clarity
 Refinement 201: Cleaning up whitespace and indentations
+Refinement 203: Cleaning up whitespace and indentations
