@@ -28,3 +28,4 @@
 # Refinement 75: Minor refactoring of function calls
 # Refinement 79: Cleaning up whitespace and indentations
 # Refinement 80: Improving code documentation
+# Refinement 82: Standardizing code style and formatting
