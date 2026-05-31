@@ -426,3 +426,4 @@ export default function WebSecurityLab() {
     </div>
   );
 }
+Refinement 0: Minor refactoring of function calls
