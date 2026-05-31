@@ -544,3 +544,4 @@ Refinement 394: Improving consistency across the module
 Refinement 396: Refining variable names for clarity
 Refinement 399: Updating documentation for future reference
 Refinement 401: Improving consistency across the module
+Refinement 403: Adding descriptive comments for better maintainability
