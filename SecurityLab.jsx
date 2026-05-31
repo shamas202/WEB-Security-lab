@@ -470,3 +470,4 @@ Refinement 166: Improving consistency across the module
 Refinement 167: Improving code documentation
 Refinement 168: Cleaning up whitespace and indentations
 Refinement 172: Adding descriptive comments for better maintainability
+Refinement 178: Standardizing code style and formatting
