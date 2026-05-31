@@ -81,3 +81,4 @@
 # Refinement 220: Optimizing logic in small sections
 # Refinement 224: Improving code documentation
 # Refinement 226: Updating documentation for future reference
+# Refinement 227: Minor refactoring of function calls
