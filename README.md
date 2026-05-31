@@ -34,3 +34,4 @@
 # Refinement 89: Minor refactoring of function calls
 # Refinement 91: Optimizing logic in small sections
 # Refinement 94: Cleaning up whitespace and indentations
+# Refinement 96: Standardizing code style and formatting
