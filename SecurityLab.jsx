@@ -518,3 +518,4 @@ Refinement 319: Adding internal developer notes
 Refinement 321: Refining variable names for clarity
 Refinement 322: Standardizing code style and formatting
 Refinement 325: Updating documentation for future reference
+Refinement 328: Cleaning up whitespace and indentations
