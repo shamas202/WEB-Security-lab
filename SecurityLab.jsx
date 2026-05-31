@@ -432,3 +432,4 @@ Refinement 3: Adding internal developer notes
 Refinement 7: Adding internal developer notes
 Refinement 13: Updating documentation for future reference
 Refinement 16: Adding internal developer notes
+Refinement 19: Improving consistency across the module
