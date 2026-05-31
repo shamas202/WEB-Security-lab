@@ -26,3 +26,4 @@
 # Refinement 67: Refining variable names for clarity
 # Refinement 73: Adding descriptive comments for better maintainability
 # Refinement 75: Minor refactoring of function calls
+# Refinement 79: Cleaning up whitespace and indentations
