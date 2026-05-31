@@ -3,3 +3,4 @@
 # Refinement 11: Refining variable names for clarity
 # Refinement 14: Updating documentation for future reference
 # Refinement 18: Updating documentation for future reference
+# Refinement 21: Cleaning up whitespace and indentations
