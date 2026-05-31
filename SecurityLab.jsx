@@ -463,3 +463,4 @@ Refinement 144: Updating documentation for future reference
 Refinement 145: Improving code documentation
 Refinement 149: Minor refactoring of function calls
 Refinement 152: Updating documentation for future reference
+Refinement 153: Cleaning up whitespace and indentations
